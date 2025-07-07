@@ -119,3 +119,9 @@ Application successfully passed all task criteria and demonstrates real-time fun
 This real-time chat application fulfills the MERN internship Task 1 requirement by demonstrating a full-stack project with live communication. It reflects a clear understanding of how to set up client-server communication using Socket.IO and showcases proficiency in React and Node.js.
 
 All functionalities were built from scratch, customized to include personal identifiers, and tested rigorously to ensure proper delivery. The project proves my capability to design, develop, debug, and deploy a working real-time web application using modern JavaScript technologies.
+
+*OUTPUT*:
+<img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/343e4e0a-471e-4efc-8f51-0c48360f5912" />
+<img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/4ea38b0c-68e8-48bf-a95a-e830a2c59c0e" />
+<img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/43c5a016-7bca-4a05-8201-1177b511677f" />
+<img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/a4ad4b6f-634b-4d1f-b943-d0f01dbd3f39" />
